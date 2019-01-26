@@ -4,9 +4,12 @@
 
 > Desired phone can be stored into the cart
 
+> PayPal login
+
+
 ## What I learned
 
-> How paypal method works
+> How PayPal method works
 
 > How state works
 
